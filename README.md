@@ -1,7 +1,7 @@
-<h1 align="center">Hello u 👻!!!</h1>
+<h1 align="center">Hello u 👻</h1>
 
 <p align="center">
-Ingeniero en Electrónica / Desarrollador de Software interesado en automatización, educación tecnológica y software open source.
+<b>• 🤖 Electronic Engineering</b> <b>• Full-Stack Dev 💻</b>
 </p>
 
 <hr>
