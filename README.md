@@ -1,7 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hello u 👻!!!</h1>
+
+<p align="center">
+Ingeniero en Electrónica / Desarrollador de Software interesado en automatización, educación tecnológica y software open source.
+</p>
+
+<hr>
+
+<h2>🚀 Sobre mí</h2>
+
+<ul>
+<li>💻 Desarrollo herramientas con <b>Python</b> y <b>SQL</b></li>
+<li>📚 Enseño fundamentos de programación y desarrollo de software</li>
+<li>⚙️ Me interesa la <b>automatización de procesos</b></li>
+</ul>
+
+<hr>
+
+<h2>🛠 Tecnologías y herramientas</h2>
+
+<p>
+• Python • JS • C++ •C • SQL • PostgreSQL • Git • GitHub • HTML/CSS • APIs
+</p>
+
+
+<h2>🎯 Intereses</h2>
+
+<ul>
+<li>Open Source</li>
+<li>Educación tecnológica</li>
+<li>Automatización</li>
+<li>Desarrollo de herramientas útiles</li>
+</ul>
+
+
+<p align="center">
+⭐ Siempre aprendiendo algo nuevo
+</p>
+
+<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/absphreak/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/absphreak/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/originalphreak/) ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/0170agi99s5hh187g7mtz245b) -->
 
 <!--
-**mendiolaleonel2002-debug/mendiolaleonel2002-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ABSphreak/ABSphreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
