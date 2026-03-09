@@ -20,15 +20,15 @@
 <hr>
 
 
-<h2>📊 My Stats</h2>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mendiolaleonel2002-debug&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendiolaleonel2002-debug&layout=compact&theme=tokyonight" />
-
+<h2 >Stack</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,postman,vscode,bash&perline=12" />
+  </a>
 </p>
+<br>
+
 
 <hr>
 
