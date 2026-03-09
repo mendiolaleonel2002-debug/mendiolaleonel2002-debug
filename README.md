@@ -12,7 +12,7 @@
 <h2>🚀 Sobre mí</h2>
 
 <ul>
-<li>💻 Desarrollo herramientas con <b>Python</b> y <b>SQL</b></li>
+<li>💻 Creo en la tecnología como un medio para mejorar vidas</li>
 <li>📚 Enseño fundamentos de programación y desarrollo de software</li>
 <li>⚙️ Me interesa la <b>automatización de procesos</b></li>
 </ul>
