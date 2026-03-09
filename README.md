@@ -16,6 +16,21 @@
 
 <hr>
 
+<hr>
+
+<h2>📊 My Stats</h2>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mendiolaleonel2002-debug&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendiolaleonel2002-debug&layout=compact&theme=tokyonight" />
+
+</p>
+
+<hr>
+
+
 <h2>🛠 Tecnologías y herramientas</h2>
 
 <p>
