@@ -20,11 +20,11 @@
 <hr>
 
 
-<h2 >Stack</h2>
+<h2>Stack</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,postman,vscode,bash&perline=12" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,flutter,fastapi,htmx,py,dotnet,css,html,js,nodejs,mysql,sqlite,supabase,git,github,docker,postman,vscode,astro,bash,devto&perline=12" />
   </a>
 </p>
 <br>
@@ -33,24 +33,30 @@
 <hr>
 
 
-<h2>🛠 Tecnologías y herramientas</h2>
-
-<p>
-• Python • JS • C++ •C • SQL • PostgreSQL • Git • GitHub • HTML/CSS • APIs
-</p>
-
-
-<h2>🎯 Intereses</h2>
-
-<ul>
-<li>Open Source</li>
-<li>Educación tecnológica</li>
-<li>Automatización</li>
-<li>Desarrollo de herramientas útiles</li>
-</ul>
-
-
+<h2>GitHub :octocat:</h2>
+<!--- stats & Trophy (start) -->
 <p align="center">
+  <!--- stats (start) -->
+<table align="left">
+<tr border="none">
+<td width="60%" align="center">
+
+<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
+  <br></br> -->
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mendiolaleonel2002-debug&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="40%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mendiolaleonel2002-debug&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+
+<p align=center>
 🌅 Even the sun needs to rise
 </p>
 
