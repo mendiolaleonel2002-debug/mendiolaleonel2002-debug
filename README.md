@@ -1,7 +1,7 @@
-<h1 align="center">Hello u 👻</h1>
+<h1 align="center">Hello u 🤓</h1>
 
 <p align="center">
-<b>• 🤖 Electronic Engineering</b> <b>• Full-Stack Dev 💻</b>
+<b> 🤖 Electronic Engineering</b> <b>| Full-Stack Dev 💻</b>
 </p>
 
 <p align=center><img src="https://i.pinimg.com/originals/5e/65/1d/5e651ddb2d45f4f6ca418c1a653669cb.gif"></p>
@@ -20,13 +20,46 @@
 <hr>
 
 
-<h2>Stack</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,flutter,fastapi,htmx,py,dotnet,css,html,js,nodejs,mysql,sqlite,supabase,git,github,docker,postman,vscode,astro,bash,devto&perline=12" />
-  </a>
-</p>
+<h2>🛠️ Especialidad & Stack Tech</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td><b>🦾 Ingeniería & Embebidos</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Electronics-FF6F00?style=flat-square&logo=microchip&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>⚙️ Backend & APIs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🎨 Frontend & Mobile</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/HTMX-336699?style=flat-square&logo=htmx&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🗄️ Infraestructura & Datos</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 <br>
 
 
